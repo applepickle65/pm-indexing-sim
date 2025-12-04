@@ -1,0 +1,4 @@
+variant,throughput_ops_sec,Nw,Nclf,Nmf
+btree_volatile,4.81487e+09,275,0,0
+btree_log,2.91511e+09,403,64,64
+wbtree_simplified,4.88162e+09,64,32,32

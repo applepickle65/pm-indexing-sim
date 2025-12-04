@@ -1,0 +1,3 @@
+variant,throughput_ops_sec,Nw,Nclf,Nmf,search_hits
+sorted,8.88257e+08,62601,8320,8320,128
+unsorted,4.79603e+08,15650,2080,2080,128
