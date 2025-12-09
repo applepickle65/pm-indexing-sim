@@ -1,0 +1,2 @@
+variant,throughput_ops_sec,Nw,Nclf,Nmf,search_hits
+bztree_sim,4.66185e+08,128,64,64,10
