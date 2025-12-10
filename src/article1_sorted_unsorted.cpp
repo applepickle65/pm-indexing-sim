@@ -129,7 +129,7 @@ int main() {
     cout << "Inserts/sec sorted: " << tp_base << "\n";
     cout << "Inserts/sec tree (unsorted): " << tp_tree << "\n";
     cout << "Search hits (sample): " << hits << " / 5000\n";
-    cout << "✅ Simulation complete, relative trends preserved!\n";
+    cout << "Simulation complete, relative trends preserved!\n";
 
     return 0;
 }
